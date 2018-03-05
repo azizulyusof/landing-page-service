@@ -1,6 +1,6 @@
 ## LANDING PAGE DESIGN SERVICE, BY AZIZUL YUSOF
 
-[Image](http://oi67.tinypic.com/2jbuykp.jpg)
+<img src="http://i67.tinypic.com/2jbuykp.png" border="0" alt="LANDING PAGE DESIGN SERVICE, BY AZIZUL YUSOF">
 
 Hi there!
 My name is Azizul, and i am a Freelance Landing Page Designer.
