@@ -24,3 +24,6 @@ Once you have a lead’s permission, you then try to convert them into a custome
 Click-through pages (sometimes called jump pages) are designed as a conduit between a marketing ad and it’s final destination. The goal of a click-through page is to “warm-up” the visitor to the product/service you are trying to sell.
 
 Commonly used for ecommerce, click-through pages provide enough information to inform the buyer, making them ready to purchase, before pushing them further down the funnel – probably to a shopping cart or checkout.
+
+<img src="http://i68.tinypic.com/fjkleo.png" border="0" alt="Contact Azizul Yusof for an affordable landing page design service">
+contact me at https://www.azizulyusof.website/en/services.html#enquiry-form
