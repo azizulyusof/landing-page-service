@@ -1,6 +1,6 @@
 ## LANDING PAGE DESIGN SERVICE, BY AZIZUL YUSOF
 
-[Image](https://lh6.googleusercontent.com/xu0chY53dIkqO-nUHfVgOIwEozpnPdlLN7Yf4LrN54SeQI8dOZKlodHZTol_M3p3jNVAWXmIRHJe8uZGFGu9=w1600-h767-rw)
+[Image](http://oi67.tinypic.com/2jbuykp.jpg)
 
 Hi there!
 My name is Azizul, and i am a Freelance Landing Page Designer.
